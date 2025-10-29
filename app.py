@@ -7,4 +7,4 @@ increment = st.button("Increment")
 if increment:
   count +=1
 
-st.writte("count = " , count)
+st.write("count = " , count)
