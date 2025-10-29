@@ -8,3 +8,5 @@ if increment:
   count +=1
 
 st.write("count = " , count)
+
+st.write.sesion_state
